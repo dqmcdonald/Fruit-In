@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-02-26 BZR 4721)-product date = Monday, 25 August 2014 20:48:18
+Cmp-Mod V01 Created by CvPcb (2014-02-26 BZR 4721)-product date = Tuesday, 26 August 2014 09:47:20
 
 BeginCmp
 TimeStamp = /53FAF5F7;
@@ -24,20 +24,6 @@ EndCmp
 BeginCmp
 TimeStamp = /53FAF6D3;
 Reference = D4;
-ValeurCmp = LED;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF741;
-Reference = D5;
-ValeurCmp = LED;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF7AF;
-Reference = D6;
 ValeurCmp = LED;
 IdModule  = smd_capacitors:c_0805;
 EndCmp
@@ -71,20 +57,6 @@ IdModule  = dip_sockets:DIP-6__300_ELL;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FAF705;
-Reference = IC5;
-ValeurCmp = 4N35;
-IdModule  = dip_sockets:DIP-6__300_ELL;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF773;
-Reference = IC6;
-ValeurCmp = 4N35;
-IdModule  = dip_sockets:DIP-6__300_ELL;
-EndCmp
-
-BeginCmp
 TimeStamp = /53FAF59D;
 Reference = P1;
 ValeurCmp = CONN_1;
@@ -113,29 +85,8 @@ IdModule  = pin_array:PIN_ARRAY_1;
 EndCmp
 
 BeginCmp
-TimeStamp = /53FAF6E7;
-Reference = P5;
-ValeurCmp = CONN_1;
-IdModule  = pin_array:PIN_ARRAY_1;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF755;
-Reference = P6;
-ValeurCmp = CONN_1;
-IdModule  = pin_array:PIN_ARRAY_1;
-EndCmp
-
-BeginCmp
 TimeStamp = /53FAFC16;
 Reference = P7;
-ValeurCmp = CONN_1;
-IdModule  = pin_array:PIN_ARRAY_1;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAFDCD;
-Reference = P8;
 ValeurCmp = CONN_1;
 IdModule  = pin_array:PIN_ARRAY_1;
 EndCmp
@@ -192,34 +143,6 @@ EndCmp
 BeginCmp
 TimeStamp = /53FAF691;
 Reference = Q8;
-ValeurCmp = 2N3904;
-IdModule  = DQM:sot23;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF6F9;
-Reference = Q9;
-ValeurCmp = 2N3904;
-IdModule  = DQM:sot23;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF767;
-Reference = Q10;
-ValeurCmp = 2N3904;
-IdModule  = DQM:sot23;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF6FF;
-Reference = Q11;
-ValeurCmp = 2N3904;
-IdModule  = DQM:sot23;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF76D;
-Reference = Q12;
 ValeurCmp = 2N3904;
 IdModule  = DQM:sot23;
 EndCmp
@@ -388,90 +311,6 @@ EndCmp
 BeginCmp
 TimeStamp = /53FAF6CD;
 Reference = R24;
-ValeurCmp = 470 Ohms;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF6ED;
-Reference = R25;
-ValeurCmp = 2.2M;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF75B;
-Reference = R26;
-ValeurCmp = 2.2M;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF6F3;
-Reference = R27;
-ValeurCmp = 10K;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF761;
-Reference = R28;
-ValeurCmp = 10K;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF70C;
-Reference = R29;
-ValeurCmp = 220 Ohms;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF77A;
-Reference = R30;
-ValeurCmp = 220 Ohms;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF718;
-Reference = R31;
-ValeurCmp = 220 Ohms;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF786;
-Reference = R32;
-ValeurCmp = 220 Ohms;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF71E;
-Reference = R33;
-ValeurCmp = 10K;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF78C;
-Reference = R34;
-ValeurCmp = 10K;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF73B;
-Reference = R35;
-ValeurCmp = 470 Ohms;
-IdModule  = smd_capacitors:c_0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /53FAF7A9;
-Reference = R36;
 ValeurCmp = 470 Ohms;
 IdModule  = smd_capacitors:c_0805;
 EndCmp
